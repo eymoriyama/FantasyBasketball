@@ -1,0 +1,4 @@
+select a.day, a.player, a.fp, b.pfp from
+(select *, date(date) as day from playerdata where played = 1) as a
+join (select *, date(date) as day from projectiondata where pfp is not null and pfp > 0) as b
+on a.player = b.player and a.day = b.day

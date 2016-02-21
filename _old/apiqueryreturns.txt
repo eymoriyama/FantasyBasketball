@@ -1,0 +1,11 @@
+Players Query
+[{u'first_name': u'Kevin', u'last_name': u'Garnett', u'player_name': u'Kevin Garnett', u'dk_position': u'PF', u'dk_id': u'2989', u'team_id': 1610612750, u'birth_date': u'1976-05-19', u'position': u'Forward', u'id': 708}
+
+Stats Query
+ {u'period': u'f', u'team_id': 1610612750, u'player_id': 708, u'pts': 3, u'min': u'15:39', u'fta': 2, u'to': 0, u'pf': 3, u'blk': 1, u'ftm': 1, u'fg3a': 0, u'ast': 3, u'season': u'2015', u'fg3m': 0, u'fgm': 1, u'game_id': 21500626, u'dreb': 1, u'fga': 2, u'plus_minus': 0, u'stl': u'0', u'oreb': 0, u'opponent_id': 1610612740}
+
+ Games Query
+ {u'away_id': 1610612745, u'season': u'2015', u'id': 21500859, u'home_id': 1610612757, u'date': u'2016-02-25 22:00:00', u'final': 0}
+
+ Teams Query
+ {u'city': u'Washington', u'dk_id': 27, u'created_at': u'2015-10-21 15:29:41', u'updated_at': u'2015-10-21 15:29:41', u'abbreviation': u'WAS', u'team_name': u'Wizards', u'id': 1610612764}
